@@ -1,2 +1,0 @@
-BASE_CHECKPOINT_DIR = "checkpoints"
-BASE_CHECKPOINT_DATA_DIR = "games"

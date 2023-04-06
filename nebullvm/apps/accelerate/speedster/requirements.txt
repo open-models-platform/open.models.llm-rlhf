@@ -1,2 +1,0 @@
-nebullvm>=0.6.1
-tabulate>=0.8.0
